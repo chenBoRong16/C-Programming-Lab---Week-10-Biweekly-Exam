@@ -27,5 +27,5 @@ This repository contains solutions to two problems assigned as part of a biweekl
 1. **Compile the Programs**:
    Use GCC or any C compiler of your choice to compile the programs:
    ```sh
-   gcc B133040018_1.c -o matrix_multiplication
-   gcc B133040018_2.c -o closest_value
+   gcc 1.c -o matrix_multiplication
+   gcc 2.c -o closest_value
