@@ -4,8 +4,8 @@
 This repository contains solutions to two problems assigned as part of a biweekly C programming practice test. Each problem is solved using a separate C program. The first program focuses on generating and multiplying matrices, while the second one performs a binary search to find the closest value to a target number in an array.
 
 ## Contents
-- **`B133040018_1.c`**: Implements matrix generation, multiplication, and result display. The user inputs two dimensions for matrices, and the program generates two random binary matrices, multiplies them, and outputs the result.
-- **`B133040018_2.c`**: Reads a sorted array of integers from input and finds the value closest to 10,000 using binary search. If there are two values equally close, it selects the larger value.
+- **`1.c`**: Implements matrix generation, multiplication, and result display. The user inputs two dimensions for matrices, and the program generates two random binary matrices, multiplies them, and outputs the result.
+- **`2.c`**: Reads a sorted array of integers from input and finds the value closest to 10,000 using binary search. If there are two values equally close, it selects the larger value.
 
 ## Problem Descriptions
 
